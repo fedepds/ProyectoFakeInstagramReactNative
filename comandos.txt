@@ -1,0 +1,4 @@
+npx create-expo-app@latest
+npm install
+npm install @react-native-async-storage/async-storage
+npx expo install expo-image-picker
